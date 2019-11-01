@@ -7,7 +7,6 @@ public class PowerFunction {
     /*
     Time Complexity: O(n)
     Space Complexity: O(1)
-    Algorithmic Paradigm: Divide and conquer.
     */
 
 
