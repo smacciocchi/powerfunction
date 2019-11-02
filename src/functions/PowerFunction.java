@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class PowerFunction {
 
     /*
-    Time Complexity: O(n)
+    Time Complexity: O(LogN)
     Space Complexity: O(1)
     */
 

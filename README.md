@@ -1,2 +1,6 @@
-Power function using divide and conquer.
-power(x,y) where 2^2 = 4
+Time Complexity: O(n)
+Space Complexity: O(1)
+Algorithm: Divide and conquer.
+
+PowerFunction.java is optimized to O(LogN) by calculating power(x, y/2) only once and storing it.
+This reduces the time complexity compared to calculating every time at O(n).
