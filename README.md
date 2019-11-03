@@ -1,4 +1,4 @@
-Time Complexity: O(n)
+Time Complexitydw:(LogN)
 Space Complexity: O(1)
 Algorithm: Divide and conquer.
 
